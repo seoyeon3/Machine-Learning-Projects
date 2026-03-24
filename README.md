@@ -1,6 +1,6 @@
 # Histologic Image Cancer Classification
 
-## Overview
+## Overview [![Report](https://img.shields.io/badge/Report-Histologic%20Cancer%20Classification-blue?style=flat)](https://github.com/seoyeon3/Machine-Learning-Projects/blob/main/group_project/Histologic%20Image%20Cancer%20Classification%20Report.pdf)
 Built a deep learning model to classify histologic images for cancer diagnosis, addressing challenges such as class imbalance and high-resolution medical data.
 
 ## Problem
